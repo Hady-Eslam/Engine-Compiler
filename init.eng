@@ -1,0 +1,13 @@
+int _ = 5 + 2 + 3;
+
+print(_);
+
+string _2 = 'Enter The Number ';
+
+print(_2);
+input(_);
+
+
+string _3 = 'Your Number is ';
+print(_3);
+print(_);

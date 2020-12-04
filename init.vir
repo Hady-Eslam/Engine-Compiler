@@ -1,0 +1,18 @@
+var:INT:_0:0
+var:DOUBLE:t_1:0
+var:DOUBLE:t_2:5
+var:DOUBLE:t_3:0
+var:DOUBLE:t_4:2
+var:DOUBLE:t_5:3
+add_v_v:t_3:t_4:t_5
+add_v_v:t_1:t_2:t_3
+add_v_v:_0:_0:t_1
+pr:_0
+var:STRING:_6:''
+add_s_v:_6:_6:'Enter The Number '
+pr:_6
+in:_0
+var:STRING:_7:''
+add_s_v:_7:_7:'Your Number is '
+pr:_7
+pr:_0
